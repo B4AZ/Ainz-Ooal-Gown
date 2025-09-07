@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Indonesia",
+		"leaderName": "Soekarno",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Islam",
+		"personality": "Soekarno",
+
+		"startIntroPart1": "Honour be with you, oh great leader Soekarno, first president of Indonesia. You led the Indonesian resistance to Dutch re-colonisation efforts via diplomatic and military means until the Dutch recognition of Indonesian independence in 1949. As a result, you was given the title Father of Proclamation by the Indonesian.",
+		"startIntroPart2": "Mighty leader Soekarno, the Indonesian yearn for a strong leader who can return them to prosperity! Will you set out to further expanding the glory of your nation? Will you build a civilization that can stand the test of time?",
+		"declaringWar": "You stand between Indonesian army and their destiny... Prepare for war!",
+		"attacked": "You dare attack the Indonesian?!",
+		"defeated": "I'm impressed by your victory, even if it came at our expense.",
+		"denounced": "Your words ring hollow.",
+		"introduction": "You stand before the Indonesian! What brings you to our nation?",
+		"neutralHello": "Welcome.",
+		"hateHello": "Are you a male concubine, stranger?",
+		"tradeRequest": "What if we make a deal, you and me?",
+
+		"innerColor": [255,0,0],
+		"outerColor": [255,255,255],
+		"uniqueName": "Bhinneka Tunggal Ika",
+		"uniques": [
+			"[+1 Production, +1 Happiness] from every [Bonus resource]",
+			"[+2 Faith] <after founding a Pantheon> <before founding a religion>",
+			"[+2 Culture, +1 Happiness] [in all cities] <in cities with an enhanced religion>",
+			"Comment [+15% [Production] when constructing wonders in cities with a [Holy site]]",
+		]
+		"spyNames": ["Adityawarman", "Airlangga", "Citra", "Asep", "Joko", "Lingga", "Dewi", "Prapana", "Raden", "Masbro"],
+		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
+			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
+			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
+			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
+			"Yogyakarta","Bima","Sorong"]
+	}
+]
