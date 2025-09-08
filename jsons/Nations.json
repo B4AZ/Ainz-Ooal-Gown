@@ -26,6 +26,7 @@
 			"Cannot build [Settler] units",
 			"May not annex cities",
 			"May buy items in puppet cities",
+			"[+1 Production, +1 Science] from every [Bonus resource], [Strategic resource], [Luxury resource]",
 		]
 		"spyNames": ["Doppel-Arthur", "Doppel-Mira", "Doppel-Jack", "Doppel-Rain", "Doppel-Kain", "Doppel-Jane", "Doppel-Travis", "Doppel-Jiang", "Doppel-Jihyo", "Doppel-Maddie"],
 		"cities": ["Great Tomb of Nazarick"]
