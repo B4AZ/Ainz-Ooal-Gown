@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Indonesia",
-		"leaderName": "Soekarno",
-		"adjective": ["Indonesian"],
-		"startBias": ["Coast"],
+		"name": "Sorcerer Kingdom",
+		"leaderName": "Ainz Ooal Gown",
+		"adjective": ["Citizens of the Sorcerer Kingdom"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Islam",
-		"personality": "Soekarno",
+		"favoredReligion": "Ainzian Doctrine",
+		"personality": "Ainz Ooal Gown",
 
 		"startIntroPart1": "Honour be with you, oh great leader Soekarno, first president of Indonesia. You led the Indonesian resistance to Dutch re-colonisation efforts via diplomatic and military means until the Dutch recognition of Indonesian independence in 1949. As a result, you was given the title Father of Proclamation by the Indonesian.",
 		"startIntroPart2": "Mighty leader Soekarno, the Indonesian yearn for a strong leader who can return them to prosperity! Will you set out to further expanding the glory of your nation? Will you build a civilization that can stand the test of time?",
