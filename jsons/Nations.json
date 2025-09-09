@@ -28,7 +28,7 @@
 			"May buy items in puppet cities",
 			"[-25]% Culture cost of natural border growth [in capital]","[-25]% Gold cost of acquiring tiles [in capital]",
 		]
-		"uniqueText": "Primary residence of [Ainz Ooal Gown]. Please don't bother him. Or else..",
+		"uniqueText": "Primary residence of [Ainz Ooal Gown]. Don't bother him, or else..",
 		"spyNames": ["Doppel-Arthur", "Doppel-Mira", "Doppel-Jack", "Doppel-Rain", "Doppel-Kain", "Doppel-Jane", "Doppel-Travis", "Doppel-Jiang", "Doppel-Jihyo", "Doppel-Maddie"],
 		"cities": ["Great Tomb of Nazarick"]
 	}
