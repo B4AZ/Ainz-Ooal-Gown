@@ -1,9 +1,7 @@
 [
 	{
-	"name": "Pesilat",
-	"unitType": "Sword",
-	"uniqueTo": "Indonesia",
-	"replaces": "Warrior",
+	"name": "Ainz Ooal Gown",
+	"unitType": "Range",
 	"movement": 2,
 	"strength": 8,
 	"cost": 40,
@@ -11,19 +9,5 @@
 	"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 	"upgradesTo": "Swordsman",
 	"attackSound": "nonmetalhit"
-	},
-	{
-	"name": "Kopassus",
-	"unitType": "Gunpowder",
-	"uniqueTo": "Indonesia",
-	"replaces": "Marine",
-	"strength": 65,
-	"cost": 300,
-	"movement": 3,
-	"uniques":["[+33]% Strength <vs cities>", "Can move after attacking", "Comment [Unlocked Earlier at [Electronics] ]"],
-	"requiredTech": "Electronics",
-	"promotions": ["Amphibious", "Paradrop"],
-	"upgradesTo": "Future Soldier",
-	"attackSound": "shot"
-    }	
+	}
 ]
