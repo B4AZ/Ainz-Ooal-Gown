@@ -1,13 +1,17 @@
 [
 	{
 	"name": "Ainz Ooal Gown",
-	"unitType": "Range",
+	"unitType": "Archery",
 	"movement": 2,
 	"strength": 8,
 	"cost": 40,
-	"obsoleteTech": "Metal Casting",
-	"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
-	"upgradesTo": "Swordsman",
+	"uniques": [
+		"Uncapturable",
+		"Limited to [1] per Civilization",
+		"Only available <in capital>",
+		"[+100]% XP gained from combat",
+		"Heals [25] damage if it kills a unit",
+	],
 	"attackSound": "nonmetalhit"
 	}
 ]
