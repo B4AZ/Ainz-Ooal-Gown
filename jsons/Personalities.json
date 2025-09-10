@@ -1,0 +1,28 @@
+{
+    "name": "Ainz Ooal Gown",
+    "production": 5,
+    "food": 6,
+    "gold": 5,
+    "science": 8,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 5,
+    "military": 4,
+    "aggressive": 3,
+    "declareWar": 4,
+    "commerce": 4,
+    "diplomacy": 6,
+    "loyal": 8,
+    "expansion": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 5,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 4,
+      "Piety": 6,
+      "Rationalism": 9,
+      "Freedom": 5,
+      "Autocracy": 4,
+      "Order": 7
+    }
