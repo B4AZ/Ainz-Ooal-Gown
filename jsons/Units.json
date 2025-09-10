@@ -2,8 +2,10 @@
 	{
 	"name": "Ainz Ooal Gown",
 	"unitType": "Archery",
+	"range": 4,
 	"movement": 2,
-	"strength": 8,
+	"strength": 100,
+	"rangedStrength": 100,
 	"cost": 0,
 	"uniques": [
 		"Unbuildable",
@@ -17,6 +19,6 @@
 		"Heals [25] damage if it kills a unit",
 	],
 	"promotions": ["Supreme Being"],
-	"attackSound": "metalhit"
+	"attackSound": "phaser"
 	}
 ]
