@@ -6,8 +6,12 @@
         "Automatically built in all cities where it is buildable",
         "Triggers a [Ainz appearance] event",
 		"Only available <when at war>, [[City] <in [Capital] cities>] <when below [100] HP>",
+		"Only available <in cities with a [Palace]> <hidden from users>",
 		"Free [Ainz Ooal Gown] appears",
 		"Limited to [1] per Civilization <hidden from users>",
+	]
+  }
+]
 			
 			
 			
