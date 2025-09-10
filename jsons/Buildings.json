@@ -4,4 +4,4 @@
     "cost": 0,
 		"uniques": [
       "Automatically built in all cities where it is buildable",
-      "Only available [City] <in capital city> <when below [100] HP>",
+      "Only available [cityHealth] <in capital city> <when below [100] HP>",
