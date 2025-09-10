@@ -4,5 +4,19 @@
 		"uniques": [
 			"Can see invisible [All] units",
 			"Can move immediately once bought",
+			"Can perform Air Sweep",
+			"[1] additional attacks per turn",
+			"May capture killed [Wounded] units",
+			"Unit will heal every turn, even if it performs an action",
+			"Heals [30] damage if it kills a unit",
+			"[+200]% XP gained from combat",
+			"[+50]% Strength <for every [Era number]>",
+			"[+1] Movement <for every [Era number]>",
+			"[+25]% Strength bonus for [Military] units within [2] tiles",
+			"[-25]% Strength for enemy [Military] units in adjacent [All] tiles"
+		]
+	}
+]
+			
 			
 		
