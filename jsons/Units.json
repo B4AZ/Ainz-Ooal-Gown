@@ -12,6 +12,7 @@
 		"Never appears as a Barbarian unit <hidden from users>",
 		"Limited to [1] per Civilization",
 		"[+100]% XP gained from combat",
+		"[+20]% Strength decreasing with distance from the capital",
 		"Heals [25] damage if it kills a unit",
 	],
 	"promotions": ["Supreme Being"],
