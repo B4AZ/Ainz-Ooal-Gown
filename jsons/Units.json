@@ -19,6 +19,6 @@
 		"Heals [25] damage if it kills a unit",
 	],
 	"promotions": ["Supreme Being"],
-	"attackSound": "phaser"
+	"attackSound": "phasers"
 	}
 ]
