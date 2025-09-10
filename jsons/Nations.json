@@ -2,7 +2,7 @@
 	{
 		"name": "Sorcerer Kingdom",
 		"leaderName": "Ainz Ooal Gown",
-		"adjective": ["Citizens of the Sorcerer Kingdom"],
+		"adjective": ["Citizens of Sorcerer Kingdom"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
 		"favoredReligion": "Ainzian Doctrine",
