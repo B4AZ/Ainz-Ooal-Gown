@@ -15,8 +15,8 @@
 		"[+20]% Strength decreasing with distance from the capital",
 		"Limited to [1] per Civilization",
 		"Unavailable <when at peace>"
-	],
-	"promotions": ["Supreme Being"], ["Indirect Fire"],
+	]
+	"promotions": ["Supreme Being"],
 	"attackSound": "phasers"
 	}
 ]
