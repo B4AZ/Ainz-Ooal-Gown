@@ -16,7 +16,7 @@
 		"Limited to [1] per Civilization",
 		"Unavailable <when at peace>"
 	],
-	"promotions": ["Supreme Being"],
+	"promotions": ["Supreme Being"], ["Indirect Fire"],
 	"attackSound": "phasers"
 	}
 ]
