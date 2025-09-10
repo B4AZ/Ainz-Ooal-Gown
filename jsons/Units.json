@@ -12,6 +12,7 @@
 		"[+100]% XP gained from combat",
 		"Heals [25] damage if it kills a unit",
 	],
-	"attackSound": "nonmetalhit"
+	"promotions": ["Supreme Being"],
+	"attackSound": "metalhit"
 	}
 ]
