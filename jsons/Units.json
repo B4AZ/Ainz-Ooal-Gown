@@ -14,7 +14,7 @@
 		"Never appears as a Barbarian unit <hidden from users>",
 		"[+20]% Strength decreasing with distance from the capital",
 		"Limited to [1] per Civilization",
-		"Unavailable <when at peace>"
+		"Unavailable <when not at war>"
 	]
 	"promotions": ["Supreme Being"],
 	"attackSound": "phasers"
