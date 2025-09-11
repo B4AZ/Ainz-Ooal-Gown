@@ -2,6 +2,7 @@
   {
 		"name": "Ainz",
 		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
+	    "uniques": [ "Free [Ainz Ooal Gown] appears <in [Capital] cities>" ]
 		"presentation": "Alert"
   },
 	{
