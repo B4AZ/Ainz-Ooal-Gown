@@ -15,7 +15,7 @@
 		"[+20]% Strength decreasing with distance from the capital",
 		"Limited to [1] per Civilization",
 		"Only available <when at war>",
-		"[This Unit] is destroyed <when not at war>"
+		"[This Unit] gains [3] movement <when not at war> <for [1] turns> <after which this unit is consumed>"
 	]
 	"promotions": ["Supreme Being"],
 	"attackSound": "phasers"
@@ -37,8 +37,12 @@
 		"Ranged attacks may be performed over obstacles",
 		"Limited to [1] per Civilization",
 		"Only available <when at war>",
-		"Triggers a [Ainz] event <upon being defeated>",
-		"[This Unit] is destroyed <when not at war>"
+		"Triggers a [Ainz] event <upon being defeated> <upon turn end>",
+		"Gain [-200] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
+		"Gain [-200] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
+		"Gain [-200] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
+		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
+		"[This Unit] gains [3] movement <when not at war> <for [1] turns> <after which this unit is consumed>"
 	]
 	"promotions": ["Pleiades"],
 	"attackSound": "SniperShot"
