@@ -14,9 +14,30 @@
 		"Never appears as a Barbarian unit <hidden from users>",
 		"[+20]% Strength decreasing with distance from the capital",
 		"Limited to [1] per Civilization",
-		"Unavailable <when not at war>"
+		"[This Unit] is destroyed <when not at war>"
 	]
 	"promotions": ["Supreme Being"],
 	"attackSound": "phasers"
+	},
+	{
+	"name": "CZ2128 Delta",
+	"unitType": "Ranged Gunpowder",
+	"range": 3,
+	"movement": 2,
+	"strength": 50,
+	"rangedStrength": 50,
+	"cost": 0,
+	"uniques": [
+		"Unbuildable",
+		"Uncapturable",
+		"Cannot be purchased",
+		"Never appears as a Barbarian unit <hidden from users>",
+		"[+20]% Strength decreasing with distance from the capital",
+		"Ranged attacks may be performed over obstacles",
+		"Limited to [1] per Civilization",
+		"[This Unit] is destroyed <when not at war>"
+	]
+	"promotions": ["Pleiades"],
+	"attackSound": "SniperShot"
 	}
 ]
