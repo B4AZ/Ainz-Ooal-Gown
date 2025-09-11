@@ -12,21 +12,7 @@
 		"Unavailable <when not at war>",
 		"Limited to [1] per Civilization <hidden from users>",
 	]
-  },
-	{
-    "name": "Ainz",
-    "cost": 0,
-	"uniques": [
-        "Automatically built in all cities where it is buildable",
-        "Triggers a [Ainz] event",
-		"Only available <when at war>",
-		"Only available <upon being declared war on by [Major] Civilizations>",
-		"Only available <in cities with a [Palace]> <hidden from users>",
-		"Free [Ainz Ooal Gown] appears",
-		"Unavailable <when not at war>",
-		"Limited to [1] per Civilization <hidden from users>",
-	]
-	}
+  }
 ]
 			
 			
