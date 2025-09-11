@@ -14,6 +14,7 @@
 		"Never appears as a Barbarian unit <hidden from users>",
 		"[+20]% Strength decreasing with distance from the capital",
 		"Limited to [1] per Civilization",
+		"Only available <when at war>",
 		"[This Unit] is destroyed <when not at war>"
 	]
 	"promotions": ["Supreme Being"],
@@ -35,6 +36,7 @@
 		"[+20]% Strength decreasing with distance from the capital",
 		"Ranged attacks may be performed over obstacles",
 		"Limited to [1] per Civilization",
+		"Only available <when at war>",
 		"Triggers a [Ainz] event <upon being defeated>",
 		"[This Unit] is destroyed <when not at war>"
 	]
