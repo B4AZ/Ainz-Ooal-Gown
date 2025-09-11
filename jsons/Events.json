@@ -1,7 +1,12 @@
 [
   {
-		"name": "Ainz appearance",
+		"name": "Ainz",
 		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
 		"presentation": "Alert"
-  }
+  },
+	{
+		"name": "CZ",
+		"text": "CZ2128 Delta watch outside sky. Some idiot declare war to her master. This isn't cute at all. Let's erase them all as soon as possible.",
+		"presentation": "Alert"
+	}
 ]
