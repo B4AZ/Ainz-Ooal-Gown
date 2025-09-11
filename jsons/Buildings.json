@@ -5,7 +5,8 @@
 	"uniques": [
         "Automatically built in all cities where it is buildable",
         "Triggers a [CZ] event",
-		"Only available [ <upon being declared war on by [Major] Civilizations> <in cities with a [Palace]> <hidden from users> ] ",
+		"Only available <upon being declared war on by [Major] Civilizations>",
+		"Only available <in cities with a [Palace]> <hidden from users>",
 		"Free [CZ2128 Delta] appears",
 		"Unavailable <when not at war>",
 		"Limited to [1] per Civilization <hidden from users>",
