@@ -5,6 +5,7 @@
 			"Can see invisible [All] units",
 			"Can move immediately once bought",
 			"Can perform Air Sweep",
+			"Ranged attacks may be performed over obstacles",
 			"[1] additional attacks per turn",
 			"May capture killed [Wounded] units",
 			"Unit will heal every turn, even if it performs an action",
