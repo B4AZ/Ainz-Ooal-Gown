@@ -19,8 +19,8 @@
 		"hateHello": "How... interesting.",
 		"tradeRequest": "I will make you a deal.",
 
-		"innerColor": [220,20,60],
-		"outerColor": [0,0,0],
+		"innerColor": [192,192,192],
+		"outerColor": [106,13,173],
 		"uniqueName": "Sacred Land of Death",
 		"uniques": [
 			"Cannot build [Settler] units",
