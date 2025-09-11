@@ -35,6 +35,7 @@
 		"[+20]% Strength decreasing with distance from the capital",
 		"Ranged attacks may be performed over obstacles",
 		"Limited to [1] per Civilization",
+		"Triggers a [Ainz] event <upon being defeated>",
 		"[This Unit] is destroyed <when not at war>"
 	]
 	"promotions": ["Pleiades"],
