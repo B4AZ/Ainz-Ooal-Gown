@@ -17,6 +17,14 @@
 			"[+25]% Strength bonus for [Military] units within [2] tiles",
 			"[-25]% Strength for enemy [Military] units in adjacent [All] tiles"
 		]
+	},
+	{
+		"name": "Pleiades",
+		"uniques": [
+			"Unit will heal every turn, even if it performs an action",
+			"[+30]% Strength <for every [Era number]>",
+			"[+1] Movement <for every [Era number]>"
+		]
 	}
 ]
 			
