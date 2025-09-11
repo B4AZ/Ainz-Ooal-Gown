@@ -2,8 +2,11 @@
   {
 		"name": "Ainz",
 		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
-	    "uniques": ["[1] free [Ainz Ooal Gown] units appear"],
-		"presentation": "Alert"
+	    "presentation": "None",
+	    "choices": [
+			{ "text": "I am here.",
+	          "uniques": ["[1] free [Ainz Ooal Gown] units appear"] }
+		]
   },
 	{
 		"name": "CZ",
