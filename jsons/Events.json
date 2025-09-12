@@ -5,7 +5,7 @@
 	    "presentation": "None",
 	    "choices": [
 			{ "text": "I am here.",
-	          "uniques": ["[1] free [Ainz Ooal Gown] units appear"] }
+	          "uniques": ["[1] free [Ainz Ooal Gown] units appear <in capital>"] }
 		]
   },
 	{
