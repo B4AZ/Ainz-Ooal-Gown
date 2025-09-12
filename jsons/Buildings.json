@@ -44,9 +44,9 @@
 	"specialistSlots": {"Scientist": 2},
 	"requiredBuilding": "Library",
 	"uniques": [
+		"Unsellable",
 		"Cannot be purchased",
 		"Cannot be hurried",
-		"Unsellable",
 		"[+2 Science] per [1] population [in this city]",
 		"Only available <in cities with a [Palace]> <hidden from users>",
 		"Destroyed when the city is captured <hidden from users>"]
