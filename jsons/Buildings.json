@@ -22,15 +22,15 @@
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Unsellable",
-		  "Destroyed when the city is captured",
-		  "[+2 Faith, +1 Production, +1 Science, +1 Culture, +1 Gold, +1 Happiness]"
+		  "[+2 Faith, +1 Production, +1 Science, +1 Culture, +1 Gold, +1 Happiness]",
+		  "Destroyed when the city is captured"
 	  ]
   },
 {
 	"name": "Statue of Ainz Ooal Gown",
 	"uniqueTo": "Sorcerer Kingdom",
 	"culture": 2,
-	"faith": 2,
+	"faith": 1,
 	"cost": 45,
 	"hurryCostModifier": 45,
 	"maintenance": 1,
@@ -41,7 +41,6 @@
 	"uniqueTo": "Sorcerer Kingdom",
 	"cost": 100,
 	"maintenance": 2,
-	"percentStatBonus": {"science": 33},
 	"specialistSlots": {"Scientist": 2},
 	"requiredBuilding": "Library",
 	"uniques": [
@@ -50,8 +49,9 @@
 		"Unsellable",
 		"[+2 Science] per [1] population [in this city]",
 		"Only available <in cities with a [Palace]> <hidden from users>",
-		"Destroyed when the city is captured",]
+		"Destroyed when the city is captured <hidden from users>",]
 	"requiredTech": "Theology",
+	"percentStatBonus": {"science": 33},
 	"civilopediaText": [
 				{"text": "This library is the residence of Titus Annaeus Secundus. Here is where Ainz Ooal Gown, stores book-shaped items along with normal books. Ainz decided to open his library for his scientist."}]
 }
