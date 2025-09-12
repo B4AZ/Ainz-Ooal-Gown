@@ -6,6 +6,7 @@
 	"movement": 2,
 	"strength": 100,
 	"rangedStrength": 100,
+	"interceptRange": 2,
 	"cost": 0,
 	"uniques": [
 		"Unbuildable",
