@@ -25,14 +25,14 @@ NationPortraits/Background
   index: -1
 
 Ainz Ooal Gown.png
-size: 200, 200
+size: 790, 790
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationPortraits/Sorcerer Kingdom
+LeaderIcons/Ainz Ooal Gown
   rotate: false
-  xy: 1, 1
-  size: 200, 200
-  orig: 200, 200
+  xy: 3, 3
+  size: 790, 790
+  orig: 790, 790
   offset: 0, 0
   index: -1
