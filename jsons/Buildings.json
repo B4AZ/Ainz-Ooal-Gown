@@ -25,7 +25,38 @@
 		  "Destroyed when the city is captured",
 		  "[+2 Faith, +1 Production, +1 Science, +1 Culture, +1 Gold, +1 Happiness]"
 	  ]
-  }
+  },
+{
+	"name": "Statue of Ainz Ooal Gown",
+	"uniqueTo": "Sorcerer Kingdom",
+	"culture": 2,
+	"faith": 2,
+	"cost": 45,
+	"hurryCostModifier": 45,
+	"maintenance": 1,
+	"uniques": ["Destroyed when the city is captured"]
+},
+{
+	"name": "Ashurbanipal of Nazarick",
+	"uniqueTo": "Sorcerer Kingdom",
+	"cost": 100,
+	"maintenance": 2,
+	"percentStatBonus": {"science": 33},
+	"specialistSlots": {"Scientist": 2},
+	"requiredBuilding": "Library",
+	"uniques": [
+		"Cannot be purchased",
+		"Cannot be hurried",
+		"Unsellable",
+		"[+1 Science] per [1] population [in this city]",
+		"Only available <in cities with a [Palace]> <hidden from users>",
+		"Destroyed when the city is captured",]
+	"requiredTech": "Theology",
+	"civilopediaText": [
+				{"text": "This library is the residence of Titus Annaeus Secundus. Here is where Ainz Ooal Gown, stores book-shaped items along with normal books. Ainz decided to open his library for his scientist."}]
+}
+		
+	
 		  
 	  
 ]
