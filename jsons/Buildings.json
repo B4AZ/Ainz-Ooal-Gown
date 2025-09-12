@@ -11,7 +11,20 @@
 		"Unavailable <when not at war>",
 		"Limited to [1] per Civilization <hidden from users>",
 	]
+   },
+  {
+	  "name": "Throne of Kings",
+	  "cost": 0,
+	  "uniques": [
+		  "Automatically built in all cities where it is buildable",
+		  "Only available <in cities with a [Palace]> <hidden from users>",
+		  "Unsellable",
+		  "Destroyed when the city is captured",
+		  "[+2 Faith, +1 Production, +1 Science, +1 Culture, +1 Gold, +1 Happiness]",
+	  ]
   }
+		  
+	  
 ]
 			
 			
