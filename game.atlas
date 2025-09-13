@@ -36,3 +36,16 @@ LeaderIcons/Ainz Ooal Gown
   orig: 790, 790
   offset: 0, 0
   index: -1
+
+Ainz.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Ainz Ooal Gown
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
