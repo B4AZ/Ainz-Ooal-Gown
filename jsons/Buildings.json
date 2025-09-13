@@ -34,7 +34,7 @@
 	"hurryCostModifier": 50,
 	"maintenance": 1,
 	"uniques": ["Destroyed when the city is captured"],
-	"requiredBuilding": "Wall",
+	"requiredBuilding": "Walls",
 	"requiredTech": "Masonry"
 },
 {
