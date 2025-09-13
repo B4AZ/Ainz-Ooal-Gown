@@ -31,8 +31,8 @@
 	"uniqueTo": "Sorcerer Kingdom",
 	"culture": 2,
 	"faith": 1,
-	"cost": 45,
-	"hurryCostModifier": 45,
+	"cost": 50,
+	"hurryCostModifier": 50,
 	"maintenance": 1,
 	"uniques": ["Destroyed when the city is captured"],
 	"requiredTech": "Masonry"
