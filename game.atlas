@@ -36,6 +36,13 @@ UnitPortraits/Background
   orig: 256, 256
   offset: 0, 0
   index: -1
+UnitIcons/Background
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 
 Ainz Ooal Gown.png
 size: 790, 790
