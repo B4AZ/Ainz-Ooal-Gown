@@ -37,7 +37,7 @@ UnitPortraits/Background
   offset: 0, 0
   index: -1
 
-Background2.png
+Background3.png
 size: 256, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
