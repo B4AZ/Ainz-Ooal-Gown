@@ -69,6 +69,13 @@ UnitPortraits/Ainz Ooal Gown
   orig: 256, 256
   offset: 0, 0
   index: -1
+UnitIcons/Ainz Ooal Gown
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 
 CZ2128 Delta.png
 size: 256, 256
@@ -78,6 +85,13 @@ repeat: none
 UnitPortraits/CZ2128 Delta
   rotate: false
   xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitPortraits/CZ2128 Delta
+  rotate: false
+  xy: 2, 2
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
