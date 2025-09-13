@@ -28,6 +28,7 @@
 {
 	"name": "Statue of Ainz Ooal Gown",
 	"uniqueTo": "Sorcerer Kingdom",
+	"cityHealth": 50,
 	"culture": 2,
 	"faith": 1,
 	"cost": 50,
@@ -40,7 +41,7 @@
 {
 	"name": "Ashurbanipal of Nazarick",
 	"uniqueTo": "Sorcerer Kingdom",
-	"cost": 100,
+	"cost": 120,
 	"maintenance": 2,
 	"specialistSlots": {"Scientist": 2},
 	"requiredBuilding": "Library",
