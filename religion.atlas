@@ -10,6 +10,13 @@ ReligionPortraits/Background
   orig: 256, 256
   offset: 0, 0
   index: -1
+ReligionIcons/Background
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 
 Ainz Doctrine.png
 size: 256, 256
@@ -23,3 +30,11 @@ ReligionPortraits/Ainz Doctrine
   orig: 256, 256
   offset: 0, 0
   index: -1
+ReligionIcons/Ainz Doctrine
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
