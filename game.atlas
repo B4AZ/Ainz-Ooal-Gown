@@ -24,6 +24,19 @@ NationPortraits/Background
   offset: 0, 0
   index: -1
 
+Background2.png
+size: 256, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitPortraits/Background
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
 Ainz Ooal Gown.png
 size: 790, 790
 format: RGBA8888
@@ -38,28 +51,28 @@ LeaderIcons/Ainz Ooal Gown
   index: -1
 
 Ainz.png
-size: 100, 100
+size: 256, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Ainz Ooal Gown
+UnitPortraits/Ainz Ooal Gown
   rotate: false
   xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 
 CZ2128 Delta.png
-size: 100, 100
+size: 256, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/CZ2128 Delta
+UnitPortraits/CZ2128 Delta
   rotate: false
   xy: 1, 1
-  size: 100, 100
-  orig: 100, 100
+  size: 256, 256
+  orig: 256, 256
   offset: 0, 0
   index: -1
 
