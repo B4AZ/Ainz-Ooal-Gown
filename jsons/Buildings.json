@@ -34,7 +34,8 @@
 	"cost": 45,
 	"hurryCostModifier": 45,
 	"maintenance": 1,
-	"uniques": ["Destroyed when the city is captured"]
+	"uniques": ["Destroyed when the city is captured"],
+	"requiredTech": "Masonry"
 },
 {
 	"name": "Ashurbanipal of Nazarick",
