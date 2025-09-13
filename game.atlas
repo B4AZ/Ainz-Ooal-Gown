@@ -64,42 +64,29 @@ UnitIcons/CZ2128 Delta
   index: -1
 
 Ainz2.png
-size: 500, 500
+size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Ainz Ooal Gown
   rotate: false
-  xy: 2, 2
-  size: 500, 500
-  orig: 500, 500
-  offset: 0, 0
-  index: -1
-
-Ainz2.png
-size: 500, 500
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/AbsoluteUnits/Units/Ainz Ooal Gown
-  rotate: false
-  xy: 2, 2
-  size: 500, 500
-  orig: 500, 500
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/Fairline/Units/Ainz Ooal Gown
   rotate: false
-  xy: 2, 2
-  size: 500, 500
-  orig: 500, 500
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ainz Ooal Gown
   rotate: false
-  xy: 2, 2
-  size: 500, 500
-  orig: 500, 500
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 
