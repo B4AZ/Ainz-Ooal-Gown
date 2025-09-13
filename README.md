@@ -1,3 +1,3 @@
-# Ainz-Ooal-Gown-
+# Ainz Ooal Gown
 Momonga and his guild base transported to Unciv.
-(Still WIP)
+Compatible with GnK, BNW, Fantasia, Epic of Fantasy.
