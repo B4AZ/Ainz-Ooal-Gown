@@ -37,19 +37,6 @@ UnitPortraits/Background
   offset: 0, 0
   index: -1
 
-Background3.png
-size: 256, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-ReligionPortraits/Background
-  rotate: false
-  xy: 1, 1
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-
 Ainz Ooal Gown.png
 size: 790, 790
 format: RGBA8888
@@ -82,19 +69,6 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitPortraits/CZ2128 Delta
-  rotate: false
-  xy: 1, 1
-  size: 256, 256
-  orig: 256, 256
-  offset: 0, 0
-  index: -1
-
-Ainz Doctrine.png
-size: 256, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-ReligionPortraits/Ainz Doctrine
   rotate: false
   xy: 1, 1
   size: 256, 256
