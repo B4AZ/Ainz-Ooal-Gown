@@ -20,7 +20,8 @@
 		"Gain [-400] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-400] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-400] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
-		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]"
+		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
+		"Unavailable <when not at war>"
 	]
 	"promotions": ["Supreme Being"],
 	"attackSound": "phasers"
@@ -47,7 +48,8 @@
 		"Gain [-200] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-200] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
-		"Comment [Ainz Ooal Gown will come to save her upon being defeated]"
+		"Comment [Ainz Ooal Gown will come to save her upon being defeated]",
+		"Unavailable <when not at war>"
 	]
 	"promotions": ["Pleiades"],
 	"attackSound": "SniperShot"
