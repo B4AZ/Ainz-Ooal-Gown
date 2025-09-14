@@ -13,16 +13,17 @@
   },
 	
   {
-	  "name": "CZ2128",
+	  "name": "CZ2128 Quest",
 	  "uniqueTo": "Sorcerer Kingdom",
 	  "cost": 0,
 	  "uniques": [
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
-		  "Unsellable",
+		  "Unavailable <when not at war>",
 		  "Only available <upon being declared war on by [All] Civilizations>",
 		  "Triggers a [CZ2128] event",
-		  "Destroyed when the city is captured"
+		  "Destroyed when the city is captured",
+		  "Will not be displayed in Civilopedia"
 	  ]
   },
 {
