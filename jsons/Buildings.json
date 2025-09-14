@@ -11,7 +11,18 @@
 		  "Destroyed when the city is captured"
 	  ]
   },
-	
+
+  {
+	  "name": "Ainz War",
+	  "uniqueTo": "Sorcerer Kingdom",
+	  "cost": 0,
+	  "uniques": [
+		  "Unavailable <when not at war>",
+		  "Only available <in cities with a [Palace]> <hidden from users>",
+		  "Destroyed when the city is captured",
+		  "Will not be displayed in Civilopedia"
+	  ]
+  },
   {
 	  "name": "CZ2128 Quest",
 	  "uniqueTo": "Sorcerer Kingdom",
