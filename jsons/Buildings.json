@@ -20,7 +20,7 @@
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Unavailable <when not at war>",
-		  "Unavailable <if [CZ2128 Quest] is not constructed>",
+		  "Unavailable <if [CZ2128 Quest] is constructed>",
 		  "Only available <upon being declared war on by [Major] Civilizations>",
 		  "Triggers a [CZ2128] event",
 		  "Destroyed when the city is captured",
