@@ -17,6 +17,7 @@
 	  "uniqueTo": "Sorcerer Kingdom",
 	  "cost": 0,
 	  "uniques": [
+		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Unavailable <when not at war>",
 		  "Only available <if [CZ2128 Quest] is not constructed>",
