@@ -4,22 +4,22 @@
 		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
 	    "choices": [
 			{ "text": "I am here.",
-	          "uniques": ["Free [Ainz Ooal Gown] appears"] }
+	          "uniques": ["Free [Ainz Ooal Gown] appears", "Gain a free [Ainz War] [in capital]", "Remove [CZ2128 Quest] [in capital]"] }
 		]
-  },
 	{
 		"name": "CZ2128",
 		"text": "CZ2128 Delta watch outside sky. Some idiot declare war to her master. This isn't cute at all.",
 		"choices": [
 			{ "text": "Let's erase them all as soon as possible.",
 	          "uniques": [
-				  "Free [CZ2128 Delta] appears"
+				  "Free [CZ2128 Delta] appears",
+				  "Only available <if [CZ2128 Quest] is constructed>"
 			  ]
 			},
 			{ "text": "...",
 	          "uniques": [
 				  "Comment [CZ going back into Great Tomb of Nazarick]",
-				  "Only available <if [CZ2128 Quest] is constructed>"
+				  "Only available <if [Ainz War] is constructed>"
 		       ]
 	        }
 		]
