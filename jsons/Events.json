@@ -4,7 +4,7 @@
 		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
 	    "choices": [
 			{ "text": "I am here.",
-	          "uniques": ["[1] free [Ainz Ooal Gown] units appear <in [Capital] cities>"] }
+	          "uniques": ["Free [Ainz Ooal Gown] appears"] }
 		]
   },
 	{
