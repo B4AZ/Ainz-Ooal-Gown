@@ -19,7 +19,8 @@
 			},
 			{ "text": "...",
 	          "uniques": [
-				  "Comment [CZ going back into Great Tomb of Nazarick]"	
+				  "Comment [CZ going back into Great Tomb of Nazarick]",
+				  "Only available <if [CZ2128 Quest] is constructed>"
 		       ]
 	        }
 		]
