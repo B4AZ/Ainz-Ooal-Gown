@@ -19,7 +19,8 @@
 	  "uniques": [
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Unavailable <when not at war>",
-		  "Only available <upon being declared war on by [All] Civilizations>",
+		  "Only available <if [CZ2128 Quest] is not constructed>",
+		  "Only available <upon being declared war on by [Major] Civilizations>",
 		  "Triggers a [CZ2128] event",
 		  "Destroyed when the city is captured",
 		  "Will not be displayed in Civilopedia"
