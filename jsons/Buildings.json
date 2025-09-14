@@ -23,7 +23,7 @@
 		  "Only available <upon being declared war on by [All] Civilizations>",
 		  "Triggers a [CZ2128] event",
 		  "Destroyed when the city is captured",
-		  "Limited to [1] per Civilization <hidden from users>",
+		  "Unsellable",
 		  "Will not be displayed in Civilopedia"
 	  ]
   },
