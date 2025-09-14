@@ -19,7 +19,7 @@
 	  "uniques": [
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
-		  "Unavailable <when at war>",
+		  "Unavailable <when not at war>",
 		  "Only available <upon being declared war on by [All] Civilizations>",
 		  "Triggers a [CZ2128] event",
 		  "Destroyed when the city is captured",
