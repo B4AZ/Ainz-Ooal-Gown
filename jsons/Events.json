@@ -11,10 +11,6 @@
 	{
 		"name": "CZ2128",
 		"text": "CZ2128 Delta watch outside sky. Some idiot declare war to her master. This isn't cute at all. Let's erase them all as soon as possible.",
-		"presentation": "None",
-		"choices": [
-			{ "text": "...",
-			  "uniques": ["[1] free [CZ2128 Delta] units appear <in [Capital] cities>"] }
-		]
+		"presentation": "Alert"
 	}
 ]
