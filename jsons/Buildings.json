@@ -20,6 +20,7 @@
 	  "cost": 0,
 	  "uniques": [
 		  "Automatically built in all cities where it is buildable <hidden from users>",
+		  "Triggers a [CZ2128] event <upon being declared war on by [Major] Civilizations>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Unsellable",
 		  "[+2 Faith, +1 Production, +1 Science, +1 Culture, +1 Gold, +1 Happiness]",
