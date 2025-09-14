@@ -11,6 +11,20 @@
 		  "Destroyed when the city is captured"
 	  ]
   },
+	
+  {
+	  "name": "CZ2128",
+	  "uniqueTo": "Sorcerer Kingdom",
+	  "cost": 0,
+	  "uniques": [
+		  "Automatically built in all cities where it is buildable <hidden from users>",
+		  "Only available <in cities with a [Palace]> <hidden from users>",
+		  "Unsellable",
+		  "Only available <upon entering a war with [All] Civilizations>",
+		  "Triggers a [CZ2128] event",
+		  "Destroyed when the city is captured"
+	  ]
+  },
 {
 	"name": "Statue of Ainz Ooal Gown",
 	"uniqueTo": "Sorcerer Kingdom",
