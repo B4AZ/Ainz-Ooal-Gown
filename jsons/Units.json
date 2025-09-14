@@ -20,8 +20,7 @@
 		"Gain [-400] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-400] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-400] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
-		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
-		"Only available <when at war>"
+		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]"
 	]
 	"promotions": ["Supreme Being"],
 	"attackSound": "phasers"
@@ -43,7 +42,6 @@
 		"[+20]% Strength decreasing with distance from the capital",
 		"Ranged attacks may be performed over obstacles",
 		"Limited to [1] per Civilization <hidden from users>",
-		"Only available <when at war>",
 		"Triggers a [Ainz] event <upon being defeated> <hidden from users>",
 		"Gain [-200] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-200] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
