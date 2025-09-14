@@ -9,10 +9,19 @@
   },
 	{
 		"name": "CZ2128",
-		"text": "CZ2128 Delta watch outside sky. Some idiot declare war to her master. This isn't cute at all. Let's erase them all as soon as possible.",
+		"text": "CZ2128 Delta watch outside sky. Some idiot declare war to her master. This isn't cute at all.",
 		"choices": [
+			{ "text": "Let's erase them all as soon as possible.",
+	          "uniques": [
+				  "Free [CZ2128 Delta] appears",
+			      "Only available <if [CZ2128 Quest] is not constructed>"
+			  ]
+			},
 			{ "text": "...",
-	          "uniques": ["Free [CZ2128 Delta] appears"] }
+	          "uniques": [
+				  "Comment [CZ going back into Great Tomb of Nazarick]"	
+		       ]
+	        }
 		]
 	}
 ]
