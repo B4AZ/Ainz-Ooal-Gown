@@ -17,12 +17,11 @@
 		"[+20]% Strength decreasing with distance from the capital",
 		"Ranged attacks may be performed over obstacles",
 		"Limited to [1] per Civilization <hidden from users>",
-		"Only available <when at war>",
 		"Gain [-400] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-400] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-400] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
-		"[This Unit] gains [3] movement <when not at war> <for [1] turns> <after which this unit is consumed> <hidden from users>"
+		"Unavailable <when not at war>"
 	]
 	"promotions": ["Supreme Being"],
 	"attackSound": "phasers"
@@ -44,14 +43,13 @@
 		"[+20]% Strength decreasing with distance from the capital",
 		"Ranged attacks may be performed over obstacles",
 		"Limited to [1] per Civilization <hidden from users>",
-		"Only available <when at war>",
-		"Triggers a [Ainz] event <upon being defeated> <upon turn end> <hidden from users>",
+		"Unavailable <when not at war>",
+		"Triggers a [Ainz] event <upon being defeated> <hidden from users>",
 		"Gain [-200] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-200] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-200] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
-		"Comment [Ainz Ooal Gown will come to save her upon being defeated]",
-		"[This Unit] gains [3] movement <when not at war> <for [1] turns> <after which this unit is consumed> <hidden from users>"
+		"Comment [Ainz Ooal Gown will come to save her upon being defeated]"
 	]
 	"promotions": ["Pleiades"],
 	"attackSound": "SniperShot"
