@@ -50,6 +50,7 @@
 		"Gain [-200] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
 		"Comment [Ainz Ooal Gown will come to save her upon being defeated]",
+		"[This Unit] is destroyed <upon gaining the [Peace] promotion> <hidden from users>",
 		"Unavailable <when not at war>"
 	]
 	"promotions": ["Pleiades"],
