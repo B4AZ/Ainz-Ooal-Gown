@@ -15,6 +15,15 @@
 	          "uniques": ["Sell [Ainz War] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>"] }
 		]
   },
+	
+   {
+		"name": "CZ Return",
+		"text": "CZ nod her head with satisfied smile.. All her master enemy's gone.",
+	    "choices": [
+			{ "text": "CZ going back to Nazarick.",
+	          "uniques": ["Sell [CZ2128 Quest] buildings [in capital] <hidden from users>"] }
+		]
+  },
 	{
 		"name": "CZ2128",
 		"text": "CZ2128 Delta watch outside sky. Some idiot declare war to her master. This isn't cute at all.",
