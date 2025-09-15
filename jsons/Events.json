@@ -12,7 +12,7 @@
 		"text": "I hope they learn not to repeat this again.",
 	    "choices": [
 			{ "text": "Time to go home.",
-	          "uniques": ["Free [Ainz Ooal Gown] appears", "Sell [Ainz War] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>"] }
+	          "uniques": ["Sell [Ainz War] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>"] }
 		]
   },
 	{
