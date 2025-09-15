@@ -17,6 +17,8 @@
 	  "cost": 0,
 	  "uniques": [
 		  "Automatically built in all cities where it is buildable <hidden from users>",
+		  "Unbuildable",
+		  "Cannot be purchased",
 		  "Unavailable <when at war>",
 		  "Only available <if [Ainz War] is constructed>",
 		  "[Ainz Ooal Gown] units gain the [Peace] promotion",
@@ -33,6 +35,8 @@
 	  "cost": 0,
 	  "uniques": [
 		  "Unavailable <when not at war>",
+		  "Unbuildable",
+		  "Cannot be purchased",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Destroyed when the city is captured",
 		  "Will not be displayed in Civilopedia"
@@ -46,6 +50,8 @@
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Unavailable <when not at war>",
+		  "Unbuildable",
+		  "Cannot be purchased",
 		  "Unavailable <if [Ainz War] is constructed>",
 		  "Only available <upon being declared war on by [Major] Civilizations>",
 		  "Triggers a [CZ2128] event",
