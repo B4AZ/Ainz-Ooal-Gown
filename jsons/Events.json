@@ -7,6 +7,14 @@
 	          "uniques": ["Free [Ainz Ooal Gown] appears", "Gain a free [Ainz War] [in capital] <hidden from users>", "Sell [CZ2128 Quest] buildings [in capital] <hidden from users>"] }
 		]
   },
+   {
+		"name": "Ainz Return",
+		"text": "I hope they learn not to repeat this again.",
+	    "choices": [
+			{ "text": "Time to go home.",
+	          "uniques": ["Free [Ainz Ooal Gown] appears", "Sell [Ainz War] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>"] }
+		]
+  },
 	{
 		"name": "CZ2128",
 		"text": "CZ2128 Delta watch outside sky. Some idiot declare war to her master. This isn't cute at all.",
