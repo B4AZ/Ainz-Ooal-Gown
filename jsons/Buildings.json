@@ -17,13 +17,13 @@
 	  "cost": 0,
 	  "uniques": [
 		  "Automatically built in all cities where it is buildable <hidden from users>",
-		  "Cannot be purchased",
-		  "Unavailable <when at war>",
-		  "Only available <if [Ainz War] is constructed>",
-		  "[Ainz Ooal Gown] units gain the [Peace] promotion",
-		  "Triggers a [Ainz Return] event",
+		  "Cannot be purchased <hidden from users>",
+		  "Unavailable <when at war> <hidden from users>",
+		  "Only available <if [Ainz War] is constructed> <hidden from users>",
+		  "[Ainz Ooal Gown] units gain the [Peace] promotion <hidden from users>",
+		  "Triggers a [Ainz Return] event <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
-		  "Destroyed when the city is captured",
+		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
 	  ]
   },
@@ -34,13 +34,13 @@
 	  "cost": 0,
 	  "uniques": [
 		  "Automatically built in all cities where it is buildable <hidden from users>",
-		  "Cannot be purchased",
-		  "Unavailable <when at war>",
-		  "Only available <if [CZ2128 Quest] is constructed>",
-		  "[CZ2128 Delta] units gain the [Peace] promotion",
-		  "Triggers a [CZ Return] event",
+		  "Cannot be purchased <hidden from users>",
+		  "Unavailable <when at war> <hidden from users>",
+		  "Only available <if [CZ2128 Quest] is constructed> <hidden from users>",
+		  "[CZ2128 Delta] units gain the [Peace] promotion <hidden from users>",
+		  "Triggers a [CZ Return] event <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
-		  "Destroyed when the city is captured",
+		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
 	  ]
   },
@@ -49,10 +49,10 @@
 	  "uniqueTo": "Sorcerer Kingdom",
 	  "cost": 0,
 	  "uniques": [
-		  "Unavailable <when not at war>",
-		  "Cannot be purchased",
+		  "Unavailable <when not at war> <hidden from users>",
+		  "Cannot be purchased <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
-		  "Destroyed when the city is captured",
+		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
 	  ]
   },
@@ -63,12 +63,12 @@
 	  "uniques": [
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
-		  "Unavailable <when not at war>",
-		  "Cannot be purchased",
-		  "Unavailable <if [Ainz War] is constructed>",
-		  "Only available <upon being declared war on by [Major] Civilizations>",
-		  "Triggers a [CZ2128] event",
-		  "Destroyed when the city is captured",
+		  "Unavailable <when not at war> <hidden from users>",
+		  "Cannot be purchased <hidden from users>",
+		  "Unavailable <if [Ainz War] is constructed> <hidden from users>",
+		  "Only available <upon being declared war on by [Major] Civilizations> <hidden from users>",
+		  "Triggers a [CZ2128] event <hidden from users>",
+		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
 	  ]
   },
