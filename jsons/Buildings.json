@@ -27,7 +27,23 @@
 		  "Will not be displayed in Civilopedia"
 	  ]
   },
-
+	
+	{
+	  "name": "CZ Peace",
+	  "uniqueTo": "Sorcerer Kingdom",
+	  "cost": 0,
+	  "uniques": [
+		  "Automatically built in all cities where it is buildable <hidden from users>",
+		  "Cannot be purchased",
+		  "Unavailable <when at war>",
+		  "Only available <if [CZ2128 Quest] is constructed>",
+		  "[CZ2128 Delta] units gain the [Peace] promotion",
+		  "Triggers a [CZ Return] event",
+		  "Only available <in cities with a [Palace]> <hidden from users>",
+		  "Destroyed when the city is captured",
+		  "Will not be displayed in Civilopedia"
+	  ]
+  },
   {
 	  "name": "Ainz War",
 	  "uniqueTo": "Sorcerer Kingdom",
