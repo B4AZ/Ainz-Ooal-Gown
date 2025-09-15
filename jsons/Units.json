@@ -21,7 +21,7 @@
 		"Gain [-400] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Gain [-400] [Faith] <(modified by game speed)> <upon being defeated> <hidden from users>",
 		"Comment [Lose massive amounts Science, Culture and Faith upon being defeated]",
-		"[This Unit] is destroyed <upon gaining the [Peace] promotion>",
+		"[This Unit] is destroyed <upon gaining the [Peace] promotion> <hidden from users>",
 		"Unavailable <when not at war>"
 	]
 	"promotions": ["Supreme Being"],
