@@ -11,6 +11,21 @@
 		  "Destroyed when the city is captured"
 	  ]
   },
+	{
+	  "name": "Ainz Peace",
+	  "uniqueTo": "Sorcerer Kingdom",
+	  "cost": 0,
+	  "uniques": [
+		  "Automatically built in all cities where it is buildable <hidden from users>",
+		  "Unavailable <when at war>",
+		  "Only available <if [Ainz War] is constructed>",
+		  "[Ainz Ooal Gown] units gain the [Peace] promotion",
+		  "Triggers a [Ainz Return] event",
+		  "Only available <in cities with a [Palace]> <hidden from users>",
+		  "Destroyed when the city is captured",
+		  "Will not be displayed in Civilopedia"
+	  ]
+  },
 
   {
 	  "name": "Ainz War",
