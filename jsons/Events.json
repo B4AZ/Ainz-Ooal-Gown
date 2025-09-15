@@ -9,9 +9,9 @@
   },
    {
 		"name": "Ainz Return",
-		"text": "I hope they learn not to repeat this again.",
+		"text": "Ainz look around and sigh.. Finally it's over.I hope they learn not to repeat this mistake again.",
 	    "choices": [
-			{ "text": "Time to go home.",
+			{ "text": "Ainz going back to Nazarick.",
 	          "uniques": ["Sell [Ainz War] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>"] }
 		]
   },
