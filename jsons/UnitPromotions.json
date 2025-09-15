@@ -23,6 +23,12 @@
 			"[+30]% Strength <for every [Era number]>",
 			"[+1] Movement <for every [Era number]>"
 		]
+	},
+	{
+		"name": "Peace",
+		"uniques": [
+			"Comment [Nobody wants a war. Hopefully.]"
+		]
 	}
 ]
 			
