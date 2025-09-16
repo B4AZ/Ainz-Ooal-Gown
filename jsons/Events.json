@@ -20,7 +20,7 @@
 		"text": "Ainz look around and sigh.. Finally it's over.I hope they learn not to repeat this mistake again.",
 	    "choices": [
 			{ "text": "Ainz going back to Nazarick.",
-	          "uniques": ["Sell [Ainz War] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>"] }
+	          "uniques": ["Sell [Ainz Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>"] }
 		]
   },
 	{
