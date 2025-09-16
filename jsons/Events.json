@@ -30,7 +30,7 @@
 			{ "text": "Some idiot declared war with her master. Let's erase them all as soon as possible.",
 	          "uniques": [
 				  "Free [CZ2128 Delta] appears",
-				  "Only available <if [CZ2128 Quest] is constructed>",
+				  "Sell [CZ2128 Quest] buildings [in capital] <hidden from users>",
 				  "Gain a free [CZ War] [in capital] <hidden from users>",
 				  "Unavailable <if [CZ War] is constructed>"
 			  ]
