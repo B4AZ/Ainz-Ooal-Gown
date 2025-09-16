@@ -31,6 +31,8 @@
 	          "uniques": [
 				  "Free [CZ2128 Delta] appears",
 				  "Only available <if [CZ2128 Quest] is constructed>",
+				  "Gain a free [CZ War] [in capital]",
+				  "Unavailable <if [CZ War] is constructed>"
 			  ]
 			},
 			{ "text": "...",
