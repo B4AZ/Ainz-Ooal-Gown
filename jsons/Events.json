@@ -4,7 +4,7 @@
 		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
 	    "choices": [
 			{ "text": "I am here.",
-	          "uniques": ["Free [Ainz Ooal Gown] appears","Gain a free [CZ War] [in capital] <hidden from users>", "Triggers a [CZ2128] event <hidden from users>"] }
+	          "uniques": ["Free [Ainz Ooal Gown] appears","Gain a free [Ainz War] [in capital] <hidden from users>", "Triggers a [CZ2128] event <hidden from users>"] }
 		]
   },
   {
