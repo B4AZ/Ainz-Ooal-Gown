@@ -67,7 +67,7 @@
 		  "Unavailable <when not at war> <hidden from users>",
 		  "Cannot be purchased <hidden from users>",
 		  "Unavailable <if [Ainz War] is constructed> <hidden from users>",
-		  "Only available <upon entering a war with [Major] Civilizations> <hidden from users>",
+		  "Only available <upon being declared war on by [Major] Civilizations> <hidden from users>",
 		  "Triggers a [CZ2128] event <hidden from users>",
 		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
