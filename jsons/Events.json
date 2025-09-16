@@ -25,13 +25,13 @@
   },
 	{
 		"name": "CZ2128",
-		"text": "CZ2128 Delta watch outside sky. Some idiot entered war with her master. This isn't cute at all.",
+		"text": "CZ2128 Delta watch outside world. This isn't cute at all.",
 		"choices": [
-			{ "text": "Let's erase them all as soon as possible.",
+			{ "text": "Some idiot declared war with her master. Let's erase them all as soon as possible.",
 	          "uniques": [
 				  "Free [CZ2128 Delta] appears",
 				  "Only available <if [CZ2128 Quest] is constructed>",
-				  "Gain a free [CZ War] [in capital]",
+				  "Gain a free [CZ War] [in capital] <hidden from users>",
 				  "Unavailable <if [CZ War] is constructed>"
 			  ]
 			},
