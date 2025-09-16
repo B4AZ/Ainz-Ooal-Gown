@@ -4,7 +4,7 @@
 		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
 	    "choices": [
 			{ "text": "I am here.",
-	          "uniques": ["Free [Ainz Ooal Gown] appears", "Sell [CZ2128 Quest] buildings [in capital] <hidden from users>"] }
+	          "uniques": ["Free [Ainz Ooal Gown] appears", "Sell [CZ2128 Quest] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>"] }
 		]
   },
   {
@@ -12,7 +12,7 @@
 		"text": "CZ nod her head with satisfied smile.. All her master enemy's gone.",
 	    "choices": [
 			{ "text": "CZ going back to Nazarick.",
-	          "uniques": ["Sell [CZ2128 Quest] buildings [in capital] <hidden from users>", "Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [Ainz War] buildings [in capital] <hidden from users>"] }
+	          "uniques": ["Sell [CZ2128 Quest] buildings [in capital] <hidden from users>", "Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>"] }
 		]
   },
 	{
@@ -31,13 +31,12 @@
 	          "uniques": [
 				  "Free [CZ2128 Delta] appears",
 				  "Only available <if [CZ2128 Quest] is constructed>",
-				  "Gain a free [Ainz War] [in capital] <hidden from users>",
 			  ]
 			},
 			{ "text": "...",
 	          "uniques": [
 				  "Comment [CZ going back into Great Tomb of Nazarick]",
-				  "Only available <if [Ainz War] is constructed>"
+				  "Only available <if [CZ War] is constructed>"
 		       ]
 	        }
 		]
