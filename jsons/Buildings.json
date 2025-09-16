@@ -11,6 +11,20 @@
 		  "Destroyed when the city is captured"
 	  ]
   },
+	
+  {
+	  "name": "Ainz War",
+	  "uniqueTo": "Sorcerer Kingdom",
+	  "cost": 0,
+	  "uniques": [
+		  "Unbuildable",
+		  "Unavailable <when not at war> <hidden from users>",
+		  "Cannot be purchased <hidden from users>",
+		  "Only available <in cities with a [Palace]> <hidden from users>",
+		  "Destroyed when the city is captured <hidden from users>",
+		  "Will not be displayed in Civilopedia"
+	  ]
+  },
 	{
 	  "name": "Ainz Peace",
 	  "uniqueTo": "Sorcerer Kingdom",
