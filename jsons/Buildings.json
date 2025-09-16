@@ -65,7 +65,7 @@
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Unavailable <when not at war> <hidden from users>",
 		  "Cannot be purchased <hidden from users>",
-		  "Only available <if [CZ2128 Quest] is constructed> <hidden from users>",
+		  "Unavailable <if [CZ2128 Quest] is constructed> <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
