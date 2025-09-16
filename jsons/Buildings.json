@@ -19,7 +19,7 @@
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Cannot be purchased <hidden from users>",
 		  "Unavailable <when at war> <hidden from users>",
-		  "Only available <if [Ainz War] is constructed> <hidden from users>",
+		  "Only available <if [CZ War] is constructed> <hidden from users>",
 		  "Only available <if [CZ2128 Quest] is not constructed> <hidden from users>",
 		  "[Ainz Ooal Gown] units gain the [Peace] promotion <hidden from users>",
 		  "Triggers a [Ainz Return] event <hidden from users>",
@@ -37,22 +37,9 @@
 		  "Automatically built in all cities where it is buildable <hidden from users>",
 		  "Cannot be purchased <hidden from users>",
 		  "Unavailable <when at war> <hidden from users>",
-		  "Only available <if [CZ2128 Quest] is constructed> <hidden from users>",
+		  "Only available <if [CZ War] is constructed> <hidden from users>",
 		  "[CZ2128 Delta] units gain the [Peace] promotion <hidden from users>",
 		  "Triggers a [CZ Return] event <hidden from users>",
-		  "Only available <in cities with a [Palace]> <hidden from users>",
-		  "Destroyed when the city is captured <hidden from users>",
-		  "Will not be displayed in Civilopedia"
-	  ]
-  },
-  {
-	  "name": "Ainz War",
-	  "uniqueTo": "Sorcerer Kingdom",
-	  "cost": 0,
-	  "uniques": [
-		  "Unbuildable",
-		  "Unavailable <when not at war> <hidden from users>",
-		  "Cannot be purchased <hidden from users>",
 		  "Only available <in cities with a [Palace]> <hidden from users>",
 		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
