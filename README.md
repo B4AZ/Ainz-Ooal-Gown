@@ -1,5 +1,5 @@
 # Ainz Ooal Gown
 Momonga and his guild base transported to Unciv.
 Compatible with GnK, BNW, Fantasia, Epic of Fantasy.
-Update ver 1.0.4 : Adding image to event.
+Update ver 1.0.4 : Adding image to event, fix icon.
 Votes star if you want more characters add.
