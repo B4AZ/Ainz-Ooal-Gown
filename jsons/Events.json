@@ -2,7 +2,7 @@
   {
 		"name": "Ainz",
         "civilopediaText": [
-            { "extraImage": "Events/Ainz", "centered": true },
+            { "extraImage": "Events/Ainz" },
             {},
             { "text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.", "centered": true }
         ],
