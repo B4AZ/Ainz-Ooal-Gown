@@ -1,7 +1,11 @@
 [
   {
 		"name": "Ainz",
-		"text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.",
+        "civilopediaText": [
+            { "extraImage": "Events/Ainz", "centered": true },
+            {},
+            { "text": "Ainz Ooal Gown make appearance outside Great Tomb of Nazarick. Death is here. Your enemies tremble in fear.", "centered": true }
+        ],
 	    "choices": [
 			{ "text": "I am here.",
 	          "uniques": ["Free [Ainz Ooal Gown] appears","Gain a free [Ainz War] [in capital] <hidden from users>", "Triggers a [CZ2128] event <hidden from users>"] }
@@ -9,7 +13,11 @@
   },
   {
 		"name": "CZ Return",
-		"text": "CZ nod her head with satisfied smile.. All her master enemy's gone.",
+        "civilopediaText": [
+            { "extraImage": "Events/CZRet", "centered": true },
+            {},
+            { "text": "CZ nod her head with satisfied smile.. All her master enemy's gone.", "centered": true }
+        ],
 	    "choices": [
 			{ "text": "CZ going back to Nazarick.",
 	          "uniques": ["Sell [CZ2128 Quest] buildings [in capital] <hidden from users>", "Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>"] }
@@ -17,7 +25,11 @@
   },
 	{
 		"name": "Ainz Return",
-		"text": "Ainz look around and sigh.. Finally it's over.I hope they learn not to repeat this mistake again.",
+        "civilopediaText": [
+            { "extraImage": "Events/AinzRet", "centered": true },
+            {},
+            { "text": "Ainz look around and sigh.. Finally it's over.I hope they learn not to repeat this mistake again.", "centered": true }
+        ],
 	    "choices": [
 			{ "text": "Ainz going back to Nazarick.",
 	          "uniques": ["Sell [CZ2128 Quest] buildings [in capital] <hidden from users>", "Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>", "Sell [Ainz War] buildings [in capital] <hidden from users>"] }
@@ -25,7 +37,11 @@
   },
 	{
 		"name": "CZ2128",
-		"text": "CZ2128 Delta watch outside world. This isn't cute at all.",
+		"civilopediaText": [
+            { "extraImage": "Events/CZ", "centered": true },
+            {},
+            { "text": "CZ2128 Delta watch outside world. This isn't cute at all.", "centered": true }
+        ],
 		"choices": [
 			{ "text": "Some idiot declared war to her master. Let's erase them all as soon as possible.",
 	          "uniques": [
