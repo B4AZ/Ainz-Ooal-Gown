@@ -66,12 +66,12 @@
 	"uniqueTo": "Sorcerer Kingdom",
 	"cost": 0,
     "uniques": [
+		"Can instantly construct a [Holy site] improvement <by consuming this unit>",
         "Unbuildable",
 		"Uncapturable",
 		"Cannot be purchased",
 		"Never appears as a Barbarian unit <hidden from users>",
         "Limited to [1] per Civilization <hidden from users>",
-        "Can instantly construct a [Holy site] improvement <by consuming this unit>",
 		"[+1] Sight",
         "Ranged attacks may be performed over obstacles",
         "Prevents spreading of religion to the city it is next to",
