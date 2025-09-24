@@ -5,6 +5,8 @@
    "Suppress warning [(Event) Ainz's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
    "Suppress warning [(Event) CZ Return's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
    "Suppress warning [(Event) Ainz Return's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
-   "Suppress warning [(Event) CZ2128's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]"
+   "Suppress warning [(Event) CZ2128's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+   "Suppress warning [(Event) FounderRel's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]",
+   "Suppress warning [(Event) NeiaBlessing's civilopediaText line 1: extraImage not found as either atlas texture or in ExtraImages folder]"
  ]
 }
