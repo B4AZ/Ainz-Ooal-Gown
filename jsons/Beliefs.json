@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Supreme Beings Legacy",
+        "type": "Pantheon",
+        "uniques": [
+            "[+3 Faith, +1 Production] [in capital]",
+            "Only available <for [Sorcerer Kingdom] Civilizations> <hidden from users>",
+            "Comment [Requirement for recruiting Neia Baraja]"
+           ]
+    },
+    {
+        "name": "Will of the Overlord",
+        "type": "Founder",
+        "uniques": [
+            "[+1 Production] for each global city following this religion",
+            "Only available <for [Sorcerer Kingdom] Civilizations> <hidden from users>",
+            "Only available <after adopting [Supreme Beings Legacy]> <hidden from users>",
+            "Triggers a [FounderRel] event <hidden from users>",
+            "Comment [Requirement for recruiting Neia Baraja]"
+           ]
+    },
+    {
+        "name": "Ainz Words",
+        "type": "Enhancer",
+        "uniques": [
+            "[+25]% Natural religion spread [in all cities]",
+            "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]>",
+            "Only available <for [Sorcerer Kingdom] Civilizations> <hidden from users>",
+            "Only available <after adopting [Will of the Overlord]> <hidden from users>",
+            "Triggers a [NeiaBlessing] event <hidden from users>",
+            "Comment [Requirement for recruiting Neia Baraja]"
+           ]
+    }
+]
