@@ -115,6 +115,19 @@ UnitPortraits/Neia Baraja
   offset: 0, 0
   index: -1
 
+Neia1.png
+size: 100, 100
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Neia Baraja
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
 CZ2128a.png
 size: 100, 100
 format: RGBA8888
