@@ -55,5 +55,29 @@
 	]
 	"promotions": ["Pleiades"],
 	"attackSound": "SniperShot"
+	},
+	{
+	"name": "Neia Baraja",
+	"unitType": "Archery",
+	"range": 2,
+	"movement": 2,
+	"strength": 18,
+	"rangedStrength": 20,
+	"uniqueTo": "Sorcerer Kingdom",
+	"cost": 0,
+    "uniques": [
+        "Unbuildable",
+		"Uncapturable",
+		"Cannot be purchased",
+		"Never appears as a Barbarian unit <hidden from users>",
+        "Limited to [1] per Civilization <hidden from users>",
+        "Can instantly construct a [Holy site] improvement <by consuming this unit>",
+		"[+1] Sight",
+        "Ranged attacks may be performed over obstacles",
+        "Prevents spreading of religion to the city it is next to",
+        "[+15]% Strength bonus for [Military] units within [2] tiles",
+        "Comment [Ainz give Ultimate Shooting Star Super to her]"
+        ]
+	"attackSound": "arrow"
 	}
 ]
