@@ -46,7 +46,7 @@
         ],
 	    "choices": [
 			{ "text": "CZ going back to Nazarick.",
-	          "uniques": ["Sell [CZ2128 Quest] buildings [in capital] <hidden from users>", "Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>"] }
+	          "uniques": ["Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>"] }
 		]
   },
 	{
@@ -58,7 +58,7 @@
         ],
 	    "choices": [
 			{ "text": "Ainz going back to Nazarick.",
-	          "uniques": ["Sell [CZ2128 Quest] buildings [in capital] <hidden from users>", "Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>", "Sell [Ainz War] buildings [in capital] <hidden from users>"] }
+	          "uniques": ["Sell [CZ Peace] buildings [in capital] <hidden from users>", "Sell [Ainz Peace] buildings [in capital] <hidden from users>", "Sell [CZ War] buildings [in capital] <hidden from users>", "Sell [Ainz War] buildings [in capital] <hidden from users>"] }
 		]
   },
 	{
