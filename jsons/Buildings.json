@@ -83,7 +83,7 @@
 		  "Unavailable <when not at war> <hidden from users>",
 		  "Cannot be purchased <hidden from users>",
 		  "Unavailable <if [CZ War] is constructed> <hidden from users>",
-		  "Triggers a [CZ2128] event <upon being declared war on by [Major] Civilizations> <hidden from users>",
+		  "Triggers a [CZ2128] event <hidden from users>",
 		  "Destroyed when the city is captured <hidden from users>",
 		  "Will not be displayed in Civilopedia"
 	  ]
