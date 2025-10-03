@@ -34,7 +34,19 @@
         ],
 	    "choices": [
 			{ "text": "I am here.",
-	          "uniques": ["Free [Ainz Ooal Gown] appears","Gain a free [Ainz War] [in capital] <hidden from users>", "Triggers a [CZ2128] event <hidden from users>"] }
+	          "uniques": ["Free [Ainz Ooal Gown] appears","Gain a free [Ainz War] [in capital] <hidden from users>", "Triggers a [CZ Defeat] event <hidden from users>"] }
+		]
+  },
+  {
+		"name": "CZ Defeat",
+        "civilopediaText": [
+            { "extraImage": "Events/CZ", "centered": true },
+            {},
+            { "text": "Ainz heal CZ from her wounds and order her to take a break." }
+        ],
+	    "choices": [
+			{ "text": "CZ going back to Nazarick.",
+	          "uniques": [] }
 		]
   },
   {
