@@ -73,11 +73,10 @@
 		"Never appears as a Barbarian unit <hidden from users>",
         "Limited to [1] per Civilization <hidden from users>",
 		"[+1] Sight",
-        "Ranged attacks may be performed over obstacles",
-        "Prevents spreading of religion to the city it is next to",
         "[+15]% Strength bonus for [Military] units within [2] tiles",
         "Comment [Ainz give Ultimate Shooting Star Super to her]"
         ]
+	"promotions": ["Indirect Fire"],
 	"attackSound": "arrow"
 	}
 ]
