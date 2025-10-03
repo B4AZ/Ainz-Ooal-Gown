@@ -40,7 +40,7 @@
   {
 		"name": "CZ Defeat",
         "civilopediaText": [
-            { "extraImage": "Events/CZ", "centered": true },
+            { "extraImage": "Events/CZDefeat", "centered": true },
             {},
             { "text": "Ainz heal CZ from her wounds and order her to take a break." }
         ],
